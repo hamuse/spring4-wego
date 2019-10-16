@@ -10,6 +10,6 @@ public class EmployeeDTO implements Serializable{
 
 	private static final long serialVersionUID = 1L;
 	
-	private String eid,pwd,eName,job,mgr,hireDate,sal,comm,deptNo;
+	private String eid,empNo,eName,job,mgr,hireDate,sal,comm,deptNo;
 
 }
